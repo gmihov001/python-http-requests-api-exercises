@@ -99,6 +99,38 @@
             "translations": [
                 "us"
             ]
+        },
+        {
+            "slug": "10-get_post_tags",
+            "title": "10-get_post_tags",
+            "path": "exercises/10-get_post_tags",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "11-get_attachment_by_id",
+            "title": "11-get_attachment_by_id",
+            "path": "exercises/11-get_attachment_by_id",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "12-post-request",
+            "title": "12-post-request",
+            "path": "exercises/12-post-request",
+            "translations": [
+                "us"
+            ]
+        },
+        {
+            "slug": "13-post-request-body",
+            "title": "13-post-request-body",
+            "path": "exercises/13-post-request-body",
+            "translations": [
+                "us"
+            ]
         }
     ]
 }
