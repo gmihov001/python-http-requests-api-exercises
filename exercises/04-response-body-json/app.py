@@ -1,8 +1,9 @@
 import requests
 
 response = requests.get("https://assets.breatheco.de/apis/fake/sample/time.php")
-print(response.text)
+response = response.json()
 
-print(response.json())
+print(response)
 
-print(type(response.json()))
+
+print("Current time: " + response["hours"] + " hrs " + response["minutes"] + " min and " + response["seconds"] + " sec")
